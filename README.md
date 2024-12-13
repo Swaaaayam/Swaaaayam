@@ -26,7 +26,7 @@
 
 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ARhero&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Swaaaayam&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)
 
 
 📫 How to Reach Me
